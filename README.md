@@ -1,2 +1,2 @@
-# Hello-World
-Mon premier dépôt sur GitHub
+# New Project
+I want to help people with coding and more
